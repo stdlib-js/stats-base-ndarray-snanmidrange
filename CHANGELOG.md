@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-06-16)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`1e89f0c`](https://github.com/stdlib-js/stdlib/commit/1e89f0c654aad32d0a040444b42edf49bde0b079) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
